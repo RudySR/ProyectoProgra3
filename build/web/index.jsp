@@ -23,7 +23,7 @@
                         <br>
                         <h1 class="mt-5">Examen Parcial 2</h1>
                         <ul >
-                            <li >Alfredo Geovanni Ramirez </li>
+                            <li >aaaaaaai Ramirez </li>
                             <li >9490-20-427</li>
                             <li >Correlativo #200</li>
                             <li >Variante AA</li>
