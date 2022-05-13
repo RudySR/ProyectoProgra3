@@ -26,7 +26,7 @@
                             <li >Alfredo Geovanni Ramirez </li>
                             <li >9490-20-427</li>
                             <li >Correlativo #200</li>
-                            <li >Variante AA</li>
+                            <li >Variante</li>
                         </ul>
 
                     </div>
